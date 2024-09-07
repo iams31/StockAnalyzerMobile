@@ -8,4 +8,6 @@
     <string name="sign_up">Sign Up</string>
     <string name="enter_full_name">Enter Full Name</string>
     <string name="enter_email_adress">Enter Email Adress</string>
+    <string name="required">*Required\n</string>
+    <string name="user_name">User Name</string>
 </resources>
